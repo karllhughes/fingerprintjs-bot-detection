@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Using FingerprintJS for Bot Detection
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project demonstrates using [FingerprintJS](https://fingerprintjs.com/) to detect possible bot access attempts. 
+
+It was created with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
